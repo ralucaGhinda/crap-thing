@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1> Raluca learning IT </h1>
-    <h2> Love bubu </h2>
-    
+    <h3> FOREVER </h3>
 </body>
 </html>
